@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "aquafirmacraft",
+  "pattern": [
+    " x ",
+    " i "
+  ],
+  "key": {
+    "x": {
+      "item": "aquafirmacraft:stoneshovelheaditem"
+    },
+    "i": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "aquafirmacraft:stoneshovelitem"
+  }
+}

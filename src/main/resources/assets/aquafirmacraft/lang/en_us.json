@@ -1,0 +1,34 @@
+{
+  "__stone tools__": "",
+
+  "item.aquafirmacraft.stoneshovelitem": "Stone Shovel",
+  "item.aquafirmacraft.stoneaxeitem": "Stone Axe",
+  "item.aquafirmacraft.sharkfinitem": "Shark Fin",
+
+  "__basic metal tools__": "",
+
+  "item.aquafirmacraft.copperpickaxeitem": "Copper Pickaxe",
+
+  "__basic alloy tools__": "",
+
+  "item.aquafirmacraft.bronzepickaxeitem": "Bronze Pickaxe",
+
+  "__advanced alloy tools__": "",
+
+  "item.aquafirmacraft.chromephosphorusnickelsteelpickaxeitem": "Chrome-Nickel Steel (Phosphorus Added) Pickaxe",
+  "item.aquafirmacraft.chromephosphorusnickelsteelshovelitem": "Chrome-Nickel Steel (Phosphorus Added) Shovel",
+
+  "__stone toolheads__": "",
+  "item.aquafirmacraft.stoneshovelheaditem": "Stone Shovel Head",
+  "item.aquafirmacraft.stoneaxeheaditem": "Stone Axe Head",
+
+  "item.aquafirmacraft.rockitem": "Rock",
+
+  "__BLOCKS__": "",
+
+  "block.aquafirmacraft.aspenlogblock": "Aspen Log",
+
+  "__GUI__": "",
+
+  "screen.aquafirmacraft.rockcrafting": "Etching"
+}
